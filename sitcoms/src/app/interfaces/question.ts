@@ -5,4 +5,5 @@ export interface IQuestion {
   b: string;
   c: string;
   d: string;
+  show: string;
 }

@@ -13,7 +13,8 @@ export class QuestionsService {
       a: 'Trumpet',
       b: 'Tuba',
       c: 'French Horn',
-      d: 'Clarinet'
+      d: 'Clarinet',
+      show: 'How I Met Your Mother'
     },
     {
       question: "What was tattooed on Ted's lower back?",
@@ -21,7 +22,8 @@ export class QuestionsService {
       a: 'Butterfly',
       b: 'Rainbow',
       c: 'Dolphin',
-      d: 'Eagle'
+      d: 'Eagle',
+      show: 'How I Met Your Mother'
     },
     {
       question: 'Barney, Ted, and Marshall all worked for GNB at some point. What does GNB stand for?',
@@ -29,7 +31,8 @@ export class QuestionsService {
       a: 'Gigantic National Bank',
       b: 'Global Nutritional Brands',
       c: 'Grant National Brands',
-      d: 'Goliath National Bank'
+      d: 'Goliath National Bank',
+      show: 'How I Met Your Mother'
     },
     {
       question: 'What did Barney have to wear for a year after losing a bet?',
@@ -37,7 +40,8 @@ export class QuestionsService {
       a: 'Kitten Underwear',
       b: 'Ducky Tie',
       c: 'Bunny Socks',
-      d: 'Monkey Shoes'
+      d: 'Monkey Shoes',
+      show: 'How I Met Your Mother'
     },
     {
       question: "Which of these is NOT one of Barney's theories?",
@@ -45,7 +49,8 @@ export class QuestionsService {
       a: 'The Daddy Rule',
       b: 'The Mermaid Theory',
       c: 'The Platinum Rule',
-      d: 'The Freeway Theory'
+      d: 'The Freeway Theory',
+      show: 'How I Met Your Mother'
     },
     {
       question: "Which character was NOT one of Ted's serious girlfriends?",
@@ -53,7 +58,8 @@ export class QuestionsService {
       a: 'Quinn',
       b: 'Stella',
       c: 'Victoria',
-      d: 'Zoey'
+      d: 'Zoey',
+      show: 'How I Met Your Mother'
     },
     {
       question: "Who is Robin's arch-enemy at work?",
@@ -61,7 +67,8 @@ export class QuestionsService {
       a: 'Clarice',
       b: 'Nora',
       c: 'Patrice',
-      d: 'Jess'
+      d: 'Jess',
+      show: 'How I Met Your Mother'
     },
     {
       question: "What is the name of Lily's high school boyfriend?",
@@ -69,7 +76,8 @@ export class QuestionsService {
       a: 'Shooter',
       b: 'Skeeter',
       c: 'Scooter',
-      d: 'Skippy'
+      d: 'Skippy',
+      show: 'How I Met Your Mother'
     },
     {
       question: 'What did Barney do to get slapped for the second time after Marshall wins their Slap Bet?',
@@ -77,7 +85,8 @@ export class QuestionsService {
       a: 'Sing a song he wrote about Lily',
       b: 'Insult the Minnesota Vikings',
       c: 'Beat him in a game of Laser Tag',
-      d: 'Perform a terrible one man show'
+      d: 'Perform a terrible one man show',
+      show: 'How I Met Your Mother'
     },
     {
       question: "What is Marshall and Lily's theory on how to be a happy couple?",
@@ -85,7 +94,8 @@ export class QuestionsService {
       a: 'The Lemon Theory',
       b: 'The Olive Theory',
       c: 'The Pineapple Theory',
-      d: 'The Pickle Theory'
+      d: 'The Pickle Theory',
+      show: 'How I Met Your Mother'
     },
     {
       question: 'What is the name of the aged scotch that keeps coming up throughout the series?',
@@ -93,7 +103,8 @@ export class QuestionsService {
       a: 'Glen McKinney',
       b: 'Glen McDonald',
       c: 'Glen McKenna',
-      d: 'Glen McKinley'
+      d: 'Glen McKinley',
+      show: 'How I Met Your Mother'
     },
     {
       question: "Which song is NOT on Barney's GET PSYCHED mix?",
@@ -101,7 +112,8 @@ export class QuestionsService {
       a: 'Bon Jovi, "You Give Love A Bad Name"',
       b: 'Guns N Roses, "Paradise City"',
       c: 'Def Leppard, "Pour Some Sugar On Me"',
-      d: 'Van Halen, "Panama"'
+      d: 'Van Halen, "Panama"',
+      show: 'How I Met Your Mother'
     },
     {
       question: 'What name did Robin take after ditching her Robin Sparkles persona and embracing an angsty 90s alt-rock vibe?',
@@ -109,7 +121,8 @@ export class QuestionsService {
       a: 'Robin Sparrow',
       b: 'Robin Sorrow',
       c: 'Robin Daggers',
-      d: 'Robin Darkness'
+      d: 'Robin Darkness',
+      show: 'How I Met Your Mother'
     },
     {
       question: "Which of Robin's vocal tics is turned into a drinking game after she says it too many times on live television?",
@@ -117,7 +130,8 @@ export class QuestionsService {
       a: 'Uh, yeahhh...',
       b: 'But...ummm...',
       c: 'What...what?',
-      d: 'Yeah, so...'
+      d: 'Yeah, so...',
+      show: 'How I Met Your Mother'
     },
     {
       question: "What does Lily's doppelganger do for a living?",
@@ -125,7 +139,8 @@ export class QuestionsService {
       a: 'Cop',
       b: 'Cab Driver',
       c: 'Stripper',
-      d: 'Doctor'
+      d: 'Doctor',
+      show: 'How I Met Your Mother'
     },
     {
       question: 'What is the name of the character that Ted and Barney hate, but Lily likes?',
@@ -133,7 +148,8 @@ export class QuestionsService {
       a: 'William Zabka',
       b: 'Gary Blauman',
       c: 'Scotty Rumsen',
-      d: 'Terry Neuemann'
+      d: 'Terry Neuemann',
+      show: 'How I Met Your Mother'
     },
     {
       question: "What is the name of Ted's future daughter?",
@@ -141,7 +157,8 @@ export class QuestionsService {
       a: 'Penny',
       b: 'Robin',
       c: 'Lucy',
-      d: 'Leia'
+      d: 'Leia',
+      show: 'How I Met Your Mother'
     },
     {
       question: "What is the name of Ted's future son?",
@@ -149,7 +166,8 @@ export class QuestionsService {
       a: 'Martin',
       b: 'Marshall',
       c: 'Owen',
-      d: 'Luke'
+      d: 'Luke',
+      show: 'How I Met Your Mother'
     },
     {
       question: 'What college did Ted, Lily, and Marshall attend?',
@@ -157,7 +175,8 @@ export class QuestionsService {
       a: 'New York University',
       b: 'Harvard University',
       c: 'Wesleyan University',
-      d: 'Columbia University'
+      d: 'Columbia University',
+      show: 'How I Met Your Mother'
     },
     {
       question: 'What year is it supposed to be when Ted is telling his two kids about how he met their mom?',
@@ -165,7 +184,8 @@ export class QuestionsService {
       a: '2015',
       b: '2020',
       c: '2025',
-      d: '2030'
+      d: '2030',
+      show: 'How I Met Your Mother'
     },
     {
       question: 'How many women did Ted date that were NOT the mother?',
@@ -173,7 +193,8 @@ export class QuestionsService {
       a: '12',
       b: '17',
       c: '24',
-      d: '29'
+      d: '29',
+      show: 'How I Met Your Mother'
     },
     {
       question: 'Robin was a famous Canadian teen pop star in the 1990s. What was the name of her pop star persona?',
@@ -181,7 +202,8 @@ export class QuestionsService {
       a: 'Robin Glitter',
       b: 'Robin Daggars',
       c: 'Robin Sparkles',
-      d: 'Robin Scherbatskty'
+      d: 'Robin Scherbatskty',
+      show: 'How I Met Your Mother'
     },
     {
       question: 'What was the name of the Canadian kids show Robin Sparkles starred on?',
@@ -189,7 +211,8 @@ export class QuestionsService {
       a: 'Teen Glow',
       b: 'Space Teens',
       c: 'Teen Beavers',
-      d: 'Space Beavers'
+      d: 'Space Beavers',
+      show: 'How I Met Your Mother'
     },
     {
       question: 'Lily breaks up with Marshall and moves to what city?',
@@ -197,7 +220,8 @@ export class QuestionsService {
       a: 'Paris',
       b: 'Rome',
       c: 'San Francisco',
-      d: 'Los Angeles'
+      d: 'Los Angeles',
+      show: 'How I Met Your Mother'
     },
     {
       question: 'Who did Barney think was his father?',
@@ -205,7 +229,8 @@ export class QuestionsService {
       a: 'Bob Barker',
       b: 'Regis Philbin',
       c: 'Michael Jackson',
-      d: 'Jackie Chan'
+      d: 'Jackie Chan',
+      show: 'How I Met Your Mother'
     },
     {
       question: "Which of these was NOT one of Marshall's nicknames?",
@@ -213,7 +238,8 @@ export class QuestionsService {
       a: 'Big Fudge',
       b: 'Vanilla Thunder',
       c: 'Beercules',
-      d: 'Minnesota Marsh'
+      d: 'Minnesota Marsh',
+      show: 'How I Met Your Mother'
     },
     {
       question: 'Who did Barney end up marrying?',
@@ -221,7 +247,8 @@ export class QuestionsService {
       a: 'Quinn',
       b: 'Nora',
       c: 'Robin',
-      d: 'Wendy the Waitress'
+      d: 'Wendy the Waitress',
+      show: 'How I Met Your Mother'
     },
     {
       question: 'Which of these former girlfriends did Ted NOT propose to?',
@@ -229,7 +256,8 @@ export class QuestionsService {
       a: 'Stella',
       b: 'Victoria',
       c: 'Tracy',
-      d: 'Henrietta'
+      d: 'Henrietta',
+      show: 'How I Met Your Mother'
     },
     {
       question: 'The series is set in the parks department of a fictional town called Pawnee. In what state is Pawnee in?',
@@ -237,7 +265,8 @@ export class QuestionsService {
       a: 'Indiana',
       b: 'Texas',
       c: 'North Carolina',
-      d: 'South Dakota'
+      d: 'South Dakota',
+      show: 'Parks & Rec'
     },
     {
       question: 'What actor plays the character of Andy Dwyer?',
@@ -245,7 +274,8 @@ export class QuestionsService {
       a: 'Chris Pratt',
       b: 'Nick Offerman',
       c: "Jim O'Heir",
-      d: 'Billy Eichner'
+      d: 'Billy Eichner',
+      show: 'Parks & Rec'
     },
     {
       question: "Which former Presidential candidate did Leslie encounter in the episode: 'Miss Knope Goes to Washington'?",
@@ -253,7 +283,8 @@ export class QuestionsService {
       a: 'Mitt Romney',
       b: 'Joe Biden',
       c: 'John McCain',
-      d: 'Al Gore'
+      d: 'Al Gore',
+      show: 'Parks & Rec'
     },
     {
       question: "What is the name of Annabel Porter's internet lifestyle magazine that promotes Ron's handmade chairs?",
@@ -261,7 +292,8 @@ export class QuestionsService {
       a: 'Name Your Boo',
       b: 'Rent A Swag',
       c: 'Entertainment 720',
-      d: 'Bloosh'
+      d: 'Bloosh',
+      show: 'Parks & Rec'
     },
     {
       question: "What board game does Ben insist on playing as part of his Bachelor Party?",
@@ -269,7 +301,8 @@ export class QuestionsService {
       a: 'The Cones of Dunshire',
       b: 'Settlers of Catan',
       c: 'The Calzone',
-      d: 'The Casinos of Tajikistan'
+      d: 'The Casinos of Tajikistan',
+      show: 'Parks & Rec'
     },
     {
       question: 'For what charity does Ben Wyatt work for before accepting the offer City Manager?',
@@ -277,7 +310,8 @@ export class QuestionsService {
       a: 'Paunch Burger Charities',
       b: 'The Sweetums Foundation',
       c: 'Entertainment 720 Fund',
-      d: "Tommy's Tummy Foundation"
+      d: "Tommy's Tummy Foundation",
+      show: 'Parks & Rec'
     },
     {
       question: "Leslie Knope filibusters the meeting called to vote on the proposed new park by reading what children's fantasy book?",
@@ -285,7 +319,8 @@ export class QuestionsService {
       a: 'The Phantom Tollbooth',
       b: 'Harry Potter and the Chamber of Secrets',
       c: '50 Shades of Grey',
-      d: 'Twilight'
+      d: 'Twilight',
+      show: 'Parks & Rec'
     },
     {
       question: "The Parks Department is threatened with closure due to budget cuts. What traditional event did Leslie revive to prove the worth of the department?",
@@ -293,7 +328,8 @@ export class QuestionsService {
       a: 'The Unity Concert',
       b: "Galentine's Day",
       c: 'The Harvest Festival',
-      d: "Li'l Sebastian Memorial"
+      d: "Li'l Sebastian Memorial",
+      show: 'Parks & Rec'
     },
     {
       question: 'When Andy Dwyer is in London, he mistakes Buckingham Palace for which fictional building?',
@@ -301,7 +337,8 @@ export class QuestionsService {
       a: '221B Baker Street',
       b: 'Hogwarts',
       c: 'Downton Abbey',
-      d: 'The Death Star'
+      d: 'The Death Star',
+      show: 'Parks & Rec'
     },
     {
       question: "What first name is shared by Ron's first two wives and his mother?",
@@ -309,7 +346,8 @@ export class QuestionsService {
       a: 'Diane',
       b: 'Leslie',
       c: 'Joan',
-      d: 'Tammy'
+      d: 'Tammy',
+      show: 'Parks & Rec'
     },
     {
       question: 'Leslie Knope and her former best friend Lindsay Shay find themselves at odds over a fence built in which park, built at the border of Pawnee and Eagleton?',
@@ -317,7 +355,8 @@ export class QuestionsService {
       a: 'Tucker Park',
       b: 'Lafayette Park',
       c: 'Ramsay Park',
-      d: 'Wamapokestone Park'
+      d: 'Wamapokestone Park',
+      show: 'Parks & Rec'
     },
     {
       question: 'Leslie finds herself in the headlines of which tabloid newspaper over her supposed affair with Councilman Dexheart?',
@@ -325,7 +364,8 @@ export class QuestionsService {
       a: 'The Pawnee Herald',
       b: 'The Pawnee Star',
       c: 'The Pawnee Sun',
-      d: "Ya' Heard with Perd"
+      d: "Ya' Heard with Perd",
+      show: 'Parks & Rec'
     },
     {
       question: 'In the final episode, what is the title of the film about his failures that Tom Haverford watches repeatedly?',
@@ -333,7 +373,8 @@ export class QuestionsService {
       a: 'Entertainment 720',
       b: 'Treat Yo Self',
       c: 'Swaggerless',
-      d: 'Failure: An American Success Story'
+      d: 'Failure: An American Success Story',
+      show: 'Parks & Rec'
     },
     {
       question: 'Where would Ron rather work?',
@@ -341,7 +382,8 @@ export class QuestionsService {
       a: 'Burger King',
       b: 'Target',
       c: 'Chuck E. Cheese',
-      d: 'Whole Foods'
+      d: 'Whole Foods',
+      show: 'Parks & Rec'
     },
     {
       question: 'What does Leslie claim she broke when she fell down the pit?',
@@ -349,7 +391,8 @@ export class QuestionsService {
       a: 'her leg',
       b: 'her hip',
       c: 'her ankle',
-      d: 'her clavicle'
+      d: 'her clavicle',
+      show: 'Parks & Rec'
     },
     {
       question: 'Where is Tom actually from?',
@@ -357,7 +400,8 @@ export class QuestionsService {
       a: 'South Carolina',
       b: 'Kentucky',
       c: 'Ohio',
-      d: 'Missouri'
+      d: 'Missouri',
+      show: 'Parks & Rec'
     },
     {
       question: 'What does Leslie equate building her first park to?',
@@ -365,7 +409,8 @@ export class QuestionsService {
       a: 'Her Eiffel Tower',
       b: 'Her Central Park',
       c: 'Her Hoover Dam',
-      d: 'Her Panama Canal'
+      d: 'Her Panama Canal',
+      show: 'Parks & Rec'
     },
     {
       question: 'What does Leslie hear when she is being yelled at?',
@@ -373,7 +418,8 @@ export class QuestionsService {
       a: 'small babies crying',
       b: 'a government that needs to change',
       c: 'people caring at her',
-      d: 'the voices of past women in politics'
+      d: 'the voices of past women in politics',
+      show: 'Parks & Rec'
     },
     {
       question: 'Which fruit does Ron secretly like?',
@@ -381,7 +427,8 @@ export class QuestionsService {
       a: 'peaches',
       b: 'pears',
       c: 'plums',
-      d: 'pineapples'
+      d: 'pineapples',
+      show: 'Parks & Rec'
     },
     {
       question: 'What inappropriate nickname did Jessica Wicks give Ben?',
@@ -389,7 +436,8 @@ export class QuestionsService {
       a: 'Honey Bun',
       b: 'Sugar Butt',
       c: 'Cutie Pie',
-      d: 'Baby Boy'
+      d: 'Baby Boy',
+      show: 'Parks & Rec'
     },
     {
       question: "Ron's birthday is during which season?",
@@ -397,7 +445,8 @@ export class QuestionsService {
       a: 'autumn',
       b: 'winter',
       c: 'spring',
-      d: 'summer'
+      d: 'summer',
+      show: 'Parks & Rec'
     },
     {
       question: 'What kind of car was Jean-Ralphio hit by?',
@@ -405,7 +454,8 @@ export class QuestionsService {
       a: 'Porsche',
       b: 'Cadillac',
       c: 'Lincoln',
-      d: 'Lexus'
+      d: 'Lexus',
+      show: 'Parks & Rec'
     },
     {
       question: 'Which of these animals does Leslie NOT call Ann?',
@@ -413,7 +463,8 @@ export class QuestionsService {
       a: 'musk ox',
       b: 'river otter',
       c: 'sunfish',
-      d: 'unicorn'
+      d: 'unicorn',
+      show: 'Parks & Rec'
     },
     {
       question: "Which classic children's character does Jess write fan fiction about?",
@@ -421,7 +472,8 @@ export class QuestionsService {
       a: 'Ramona Quimby',
       b: 'Curious George',
       c: 'Nancy Drew',
-      d: 'The Hardy Boys'
+      d: 'The Hardy Boys',
+      show: 'New Girl'
     },
     {
       question: 'What ex-boyfriend did Jess break up with prior to moving in at the loft?',
@@ -429,7 +481,8 @@ export class QuestionsService {
       a: 'Russell',
       b: 'Spencer',
       c: 'Sam',
-      d: 'Paul'
+      d: 'Paul',
+      show: 'New Girl'
     },
     {
       question: 'Who moved out of the loft in season one only to return two years later?',
@@ -437,7 +490,8 @@ export class QuestionsService {
       a: 'Nick',
       b: 'Winston',
       c: 'Coach',
-      d: 'Schmidt'
+      d: 'Schmidt',
+      show: 'New Girl'
     },
     {
       question: "Who is Jess's best friend?",
@@ -445,7 +499,8 @@ export class QuestionsService {
       a: 'Cece',
       b: 'Aly',
       c: 'Reagan',
-      d: 'Abby'
+      d: 'Abby',
+      show: 'New Girl'
     },
     {
       question: 'What does Jess do for a living?',
@@ -453,7 +508,8 @@ export class QuestionsService {
       a: 'Meteorologist',
       b: 'Veterinarian',
       c: 'Teacher',
-      d: 'Nurse'
+      d: 'Nurse',
+      show: 'New Girl'
     },
     {
       question: 'What history based drinking game do Jess and her friends play?',
@@ -461,7 +517,8 @@ export class QuestionsService {
       a: 'Where in the World is Samuel Adams',
       b: 'JFK FDR',
       c: 'Historic Blackout',
-      d: 'True American'
+      d: 'True American',
+      show: 'New Girl'
     },
     {
       question: 'What is the name of the cat Winston stole from an ex-girlfriend?',
@@ -469,7 +526,8 @@ export class QuestionsService {
       a: 'Ferguson',
       b: 'Clarissa',
       c: 'Sabrina',
-      d: 'Mr.Tibbs'
+      d: 'Mr.Tibbs',
+      show: 'New Girl'
     },
     {
       question: 'On what holiday does Jess initially invite Paul over for dinner?',
@@ -477,7 +535,8 @@ export class QuestionsService {
       a: 'Easter',
       b: 'Christmas',
       c: 'Thanksgiving',
-      d: 'Yom Kippur'
+      d: 'Yom Kippur',
+      show: 'New Girl'
     },
     {
       question: 'What niche instrument does Jess teach to delinquent students?',
@@ -485,7 +544,8 @@ export class QuestionsService {
       a: 'Lute',
       b: 'Musical saw',
       c: 'Glockenspiel',
-      d: 'Handbell'
+      d: 'Handbell',
+      show: 'New Girl'
     },
     {
       question: 'What specialty perfume does Schmidt create for Cece?',
@@ -493,7 +553,8 @@ export class QuestionsService {
       a: 'Coco Parekh',
       b: "Schmidt's Secret Sauce",
       c: 'Cecelia Number 5',
-      d: 'Love Juice'
+      d: 'Love Juice',
+      show: 'New Girl'
     },
     {
       question: 'Who does Jess believe is an Asian version of her?',
@@ -501,7 +562,8 @@ export class QuestionsService {
       a: 'Jackie',
       b: 'Jenn',
       c: 'Jules',
-      d: 'Jun'
+      d: 'Jun',
+      show: 'New Girl'
     },
     {
       question: 'Which ex-girlfriend did Nick consider leaving the loft to live with?',
@@ -509,7 +571,8 @@ export class QuestionsService {
       a: 'Kim',
       b: 'Reagan',
       c: 'Chloe',
-      d: 'Caroline'
+      d: 'Caroline',
+      show: 'New Girl'
     },
     {
       question: 'What quiet Asian man often offers Nick silently brilliant advice?',
@@ -517,7 +580,8 @@ export class QuestionsService {
       a: 'Ming',
       b: 'Confucius',
       c: 'Tran',
-      d: 'Master Roshi'
+      d: 'Master Roshi',
+      show: 'New Girl'
     },
     {
       question: 'Who does Cece data between flings with Schmidt?',
@@ -525,7 +589,8 @@ export class QuestionsService {
       a: 'Tully',
       b: 'Bob',
       c: 'Sam',
-      d: 'Robby'
+      d: 'Robby',
+      show: 'New Girl'
     },
     {
       question: 'What does Nick name his first novel',
@@ -533,7 +598,8 @@ export class QuestionsService {
       a: 'Slave to the Grave',
       b: 'Loft of the Living Dead',
       c: 'Brains for Breakfast',
-      d: 'Z is for Zombie'
+      d: 'Z is for Zombie',
+      show: 'New Girl'
     },
     {
       question: 'What is the name of the cat Winston tries setting up with Ferguson?',
@@ -541,7 +607,8 @@ export class QuestionsService {
       a: 'Miss Kitty Fantastico',
       b: 'Fatty',
       c: 'Snuffles McGuffles',
-      d: 'Purrfect Lady'
+      d: 'Purrfect Lady',
+      show: 'New Girl'
     },
     {
       question: 'Which basketball team does Jess pretend to like so Coach will like her?',
@@ -549,7 +616,8 @@ export class QuestionsService {
       a: 'Detroit Pistons',
       b: 'Boston Celtics',
       c: 'Chicago Bulls',
-      d: 'Sacramento Kings'
+      d: 'Sacramento Kings',
+      show: 'New Girl'
     },
     {
       question: 'What does Nick call his alternate personality?',
@@ -557,7 +625,8 @@ export class QuestionsService {
       a: 'Art Vandelay',
       b: 'Kal Vernsen',
       c: 'Julius Pepperwood',
-      d: 'H.E. Pennypacker'
+      d: 'H.E. Pennypacker',
+      show: 'New Girl'
     },
     {
       question: 'Who in the loft has secretly passed the bar exam?',
@@ -565,7 +634,8 @@ export class QuestionsService {
       a: 'Schmidt',
       b: 'Jess',
       c: 'Coach',
-      d: 'Nick'
+      d: 'Nick',
+      show: 'New Girl'
     },
     {
       question: "Who is Winston's partner turned fiance?",
@@ -573,7 +643,8 @@ export class QuestionsService {
       a: 'Aly',
       b: 'Ruth',
       c: 'Gina',
-      d: 'Elizabeth'
+      d: 'Elizabeth',
+      show: 'New Girl'
     },
     {
       question: 'What Tinder-like dating app brings Jess little success?',
@@ -581,7 +652,8 @@ export class QuestionsService {
       a: 'Buddiez',
       b: 'Datr',
       c: 'Dice',
-      d: 'Spinsters'
+      d: 'Spinsters',
+      show: 'New Girl'
     },
     {
       question: 'Which school staff member was Winston terrified of as a child?',
@@ -589,7 +661,8 @@ export class QuestionsService {
       a: 'Lunch ladies',
       b: 'Guidance counselors',
       c: 'Vice principals',
-      d: 'Nurses'
+      d: 'Nurses',
+      show: 'New Girl'
     },
     {
       question: "What iconic rock star's party do Jess and friends attend?",
@@ -597,7 +670,8 @@ export class QuestionsService {
       a: 'Madonna',
       b: 'Prince',
       c: 'Taylor Swift',
-      d: 'Paul McCartney'
+      d: 'Paul McCartney',
+      show: 'New Girl'
     },
     {
       question: "Who is Cece's intimidating Russian model friend?",
@@ -605,7 +679,8 @@ export class QuestionsService {
       a: 'Charmaine',
       b: 'Svetlana',
       c: 'Elaine',
-      d: 'Nadia'
+      d: 'Nadia',
+      show: 'New Girl'
     },
     {
       question: "What instrument does Coach's girlfriend May play?",
@@ -613,7 +688,8 @@ export class QuestionsService {
       a: 'Violin',
       b: 'Piano',
       c: 'Cello',
-      d: 'Harp'
+      d: 'Harp',
+      show: 'New Girl'
     },
     {
       question: 'Where does Coach move with May when leaving the loft for a second time?',
@@ -621,7 +697,8 @@ export class QuestionsService {
       a: 'Philadelphia',
       b: 'Chicago',
       c: 'Dallas',
-      d: 'New York City'
+      d: 'New York City',
+      show: 'New Girl'
     },
     {
       question: 'What costume is Nick wearing when conquering his fear of haunted houses?',
@@ -629,7 +706,8 @@ export class QuestionsService {
       a: 'Joey Ramona Quimby',
       b: 'Bee Arthur',
       c: 'Alice in Chains',
-      d: 'Edgar Allen Ho'
+      d: 'Edgar Allen Ho',
+      show: 'New Girl'
     },
     {
       question: 'What character did Taylor Swift play in her big cameo?',
@@ -637,7 +715,8 @@ export class QuestionsService {
       a: 'Kim',
       b: 'Nadia',
       c: 'Elaine',
-      d: 'Sadie'
+      d: 'Sadie',
+      show: 'New Girl'
     },
     {
       question: 'Which animal do both Jess and Nick believe comes from outer space?',
@@ -645,7 +724,8 @@ export class QuestionsService {
       a: 'Ducks',
       b: 'Horses',
       c: 'Cats',
-      d: 'Cows'
+      d: 'Cows',
+      show: 'New Girl'
     },
     {
       question: 'Why is Jess absent from multiple episodes in season five?',
@@ -653,7 +733,8 @@ export class QuestionsService {
       a: 'She is in jail',
       b: 'She in on a work retreat',
       c: 'She is at space camp',
-      d: 'Jury Duty'
+      d: 'Jury Duty',
+      show: 'New Girl'
     },
     {
       question: "What is the name of Nick and Schmidt's bar?",
@@ -661,7 +742,8 @@ export class QuestionsService {
       a: "Paddy's",
       b: "McLaren's",
       c: 'The Drunken Clam',
-      d: 'The Griffin'
+      d: 'The Griffin',
+      show: 'New Girl'
     },
     {
       question: 'What fellow Fox sitcom did New Girl share a crossover with?',
@@ -669,7 +751,8 @@ export class QuestionsService {
       a: 'The Mick',
       b: 'Brooklyn Nine-Nine',
       c: 'The Last Man on Earth',
-      d: 'Son of Zorn'
+      d: 'Son of Zorn',
+      show: 'New Girl'
     },
     {
       question: "What does Schmidt want to call his and Cece's new home?",
@@ -677,7 +760,8 @@ export class QuestionsService {
       a: 'Casa Schmidtce',
       b: 'Maison Parekh',
       c: 'Jaipur Aviv',
-      d: "Daddy's House"
+      d: "Daddy's House",
+      show: 'New Girl'
     },
     {
       question: 'What undercover police persona does Winston invent to help Jess get a promotion?',
@@ -685,7 +769,8 @@ export class QuestionsService {
       a: 'Ringo Harrison',
       b: 'James Wonder',
       c: 'Mickey Bowie',
-      d: 'Dave Charles'
+      d: 'Dave Charles',
+      show: 'New Girl'
     },
     {
       question: 'Who did Winstone marry in a disastrous prank gone wrong?',
@@ -693,7 +778,8 @@ export class QuestionsService {
       a: 'Jodie',
       b: 'Rhonda',
       c: 'Priscilla',
-      d: 'Sadie'
+      d: 'Sadie',
+      show: 'New Girl'
     },
     {
       question: 'Who was the first study group member to get bitten in "Epidemiology"?',
@@ -701,7 +787,8 @@ export class QuestionsService {
       a: 'Troy',
       b: 'Britta',
       c: 'Annie',
-      d: 'Pierce'
+      d: 'Pierce',
+      show: 'Community'
     },
     {
       question: 'What motto is on the Greendale school flag?',
@@ -709,7 +796,8 @@ export class QuestionsService {
       a: 'Caveat scholasticus',
       b: 'Semper pigmentum globus',
       c: 'E pluribus anus',
-      d: 'Carpe vinum'
+      d: 'Carpe vinum',
+      show: 'Community'
     },
     {
       question: 'Who does the librarian choose to go to the dance with in "Early 21st Century Romanticism"?',
@@ -717,7 +805,8 @@ export class QuestionsService {
       a: 'Abed',
       b: 'Troy',
       c: 'Pierce',
-      d: 'Jeff'
+      d: 'Jeff',
+      show: 'Community'
     },
     {
       question: 'Who sabotaged the yam project in "Lupin Urology"?',
@@ -725,7 +814,8 @@ export class QuestionsService {
       a: 'Garrett',
       b: 'Quendra',
       c: 'Todd',
-      d: 'Fat Neil'
+      d: 'Fat Neil',
+      show: 'Community'
     },
     {
       question: "What is Star-Burns' real name?",
@@ -733,7 +823,8 @@ export class QuestionsService {
       a: 'Andrew',
       b: 'Brian',
       c: 'Dave',
-      d: 'Alex'
+      d: 'Alex',
+      show: 'Community'
     },
     {
       question: 'Finish the quote: "To me, religion is like ____. I see the appeal, and I would never take it away from anyone, but I would also never stand in line for it."',
@@ -741,7 +832,8 @@ export class QuestionsService {
       a: 'Chris Pratt',
       b: 'Kevin Hart',
       c: 'Paul Rudd',
-      d: 'Mark Wahlberg'
+      d: 'Mark Wahlberg',
+      show: 'Community'
     },
     {
       question: 'What do Troy and Abed have in their apartment to make it fancy?',
@@ -749,7 +841,8 @@ export class QuestionsService {
       a: 'Sparkling water',
       b: 'Toilet olives',
       c: 'Cloth napkins',
-      d: 'Chocolate cigars'
+      d: 'Chocolate cigars',
+      show: 'Community'
     },
     {
       question: 'Who was the first first study group member shot in "Modern Warfare"?',
@@ -757,7 +850,8 @@ export class QuestionsService {
       a: 'Annie',
       b: 'Shirley',
       c: 'Troy',
-      d: 'Pierce'
+      d: 'Pierce',
+      show: 'Community'
     },
     {
       question: "Where does Annie's fake ID say she is from in 'Mixology Certification'?",
@@ -765,7 +859,8 @@ export class QuestionsService {
       a: 'Little Rock',
       b: 'Houston',
       c: 'Corpus Christi',
-      d: 'Fort Worth'
+      d: 'Fort Worth',
+      show: 'Community'
     },
     {
       question: 'Who took the pen in "Cooperative Calligraphy"?',
@@ -773,7 +868,8 @@ export class QuestionsService {
       a: 'Magnitude',
       b: 'Star Burns',
       c: "Annie's boobs",
-      d: 'Chang'
+      d: 'Chang',
+      show: 'Community'
     },
     {
       question: 'Where did Terry live when pursuing a college education?',
@@ -781,7 +877,8 @@ export class QuestionsService {
       a: 'Austrailia',
       b: 'Sweden',
       c: 'Alaska',
-      d: 'Japan'
+      d: 'Japan',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'What hidden talent did Terry have?',
@@ -789,7 +886,8 @@ export class QuestionsService {
       a: 'magical talent',
       b: 'comical talent',
       c: 'musical talent',
-      d: 'artistic talent'
+      d: 'artistic talent',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'Which member of the squad likes to stay in the office rather than the line of fire?',
@@ -797,7 +895,8 @@ export class QuestionsService {
       a: 'Terry',
       b: 'Jake',
       c: 'Amy',
-      d: 'Rosa'
+      d: 'Rosa',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'Who is the jokester of the precinct?',
@@ -805,7 +904,8 @@ export class QuestionsService {
       a: 'Gina',
       b: 'Raymond',
       c: 'Jake',
-      d: 'Terry'
+      d: 'Terry',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: "What is Jake's favorite movie?",
@@ -813,7 +913,8 @@ export class QuestionsService {
       a: 'Casablanca',
       b: 'The Terminator',
       c: 'Rocky',
-      d: 'Die Hard'
+      d: 'Die Hard',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: "What happened at Jake and Amy's wedding in Season Five?",
@@ -821,7 +922,8 @@ export class QuestionsService {
       a: 'There was an earthquake',
       b: 'There was an objection',
       c: 'There was a bomb threat',
-      d: 'There was an injury'
+      d: 'There was an injury',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'Who plays the role of Gina Linetti?',
@@ -829,7 +931,8 @@ export class QuestionsService {
       a: 'Jessica Biel',
       b: 'Emma Stone',
       c: 'Chelsea Peretti',
-      d: 'Reese Witherspoon'
+      d: 'Reese Witherspoon',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'What number is the precinct in the show?',
@@ -837,7 +940,8 @@ export class QuestionsService {
       a: '10th',
       b: '78th',
       c: '20th',
-      d: '99th'
+      d: '99th',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'What other show shares the same producer with Brooklyn Nine-Nine?',
@@ -845,7 +949,8 @@ export class QuestionsService {
       a: 'New Girl',
       b: 'The Office',
       c: 'Community',
-      d: 'Parks & Rec'
+      d: 'Parks & Rec',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'What did Charles receive after being shot?',
@@ -853,7 +958,8 @@ export class QuestionsService {
       a: 'NYPD Medal for Valor',
       b: 'Commendation Integrity',
       c: 'Meritorious Police Duty',
-      d: 'Excellent Police Duty'
+      d: 'Excellent Police Duty',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'Where was Charles adopted son from?',
@@ -861,7 +967,8 @@ export class QuestionsService {
       a: 'Thailand',
       b: 'Latvia',
       c: 'Ukraine',
-      d: 'India'
+      d: 'India',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: "What is Gina's job in the precinct?",
@@ -869,7 +976,8 @@ export class QuestionsService {
       a: 'Detective',
       b: 'Commander',
       c: 'Guard',
-      d: 'Administrator'
+      d: 'Administrator',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'Who does Amy get married to?',
@@ -877,7 +985,8 @@ export class QuestionsService {
       a: 'Raymond',
       b: 'Charles',
       c: 'Jake',
-      d: 'Marcus'
+      d: 'Marcus',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'Which member of the precinct had their car stolen?',
@@ -885,7 +994,8 @@ export class QuestionsService {
       a: 'Amy',
       b: 'Gina',
       c: 'Raymond',
-      d: 'Charles'
+      d: 'Charles',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'Who held Thanksgiving for everyone at the precinct?',
@@ -893,7 +1003,8 @@ export class QuestionsService {
       a: 'Amy',
       b: 'Charles',
       c: 'Terry',
-      d: 'Raymond'
+      d: 'Raymond',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'How many brothers does Amy have?',
@@ -901,7 +1012,8 @@ export class QuestionsService {
       a: 'one',
       b: 'ten',
       c: 'seven',
-      d: 'twelve'
+      d: 'twelve',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'Who is hit by a bus in Season Four?',
@@ -909,7 +1021,8 @@ export class QuestionsService {
       a: 'Charles',
       b: 'Jake',
       c: 'Gina',
-      d: 'Rosa'
+      d: 'Rosa',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'What was "giggle pig"?',
@@ -917,7 +1030,8 @@ export class QuestionsService {
       a: 'a joke',
       b: 'a song',
       c: 'a drug',
-      d: 'a person'
+      d: 'a person',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'Which two members of the squad had their parents marry each other?',
@@ -925,7 +1039,8 @@ export class QuestionsService {
       a: 'Jake and Amy',
       b: 'Rosa and Raymond',
       c: 'Terry and Michael',
-      d: 'Charles and Gina'
+      d: 'Charles and Gina',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'What actor plays the role of Jake Peralta?',
@@ -933,7 +1048,8 @@ export class QuestionsService {
       a: 'Chelsea Peretti',
       b: 'Melissa Fumero',
       c: 'Andy Samberg',
-      d: 'Terry Crews'
+      d: 'Terry Crews',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'Which of the following people have guest starred on the show?',
@@ -941,7 +1057,8 @@ export class QuestionsService {
       a: 'Jim Carrey',
       b: 'Tom Cruise',
       c: 'Katy Perry',
-      d: 'Adam Sandler'
+      d: 'Adam Sandler',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'Where are Jake & Raymond relocated to at the end of Season 3?',
@@ -949,7 +1066,8 @@ export class QuestionsService {
       a: 'England',
       b: 'Russia',
       c: 'Canada',
-      d: 'Florida'
+      d: 'Florida',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'Who is the Pontiac Bandit?',
@@ -957,7 +1075,8 @@ export class QuestionsService {
       a: 'Gina',
       b: 'Hitchcock',
       c: 'Scully',
-      d: 'Doug Judy'
+      d: 'Doug Judy',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'What are Jake and Rosa found guilty of in Season 4?',
@@ -965,7 +1084,8 @@ export class QuestionsService {
       a: 'robbery',
       b: 'vandalism',
       c: 'murder',
-      d: 'arson'
+      d: 'arson',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'What did Adrian and Rosa almost do in Season 4?',
@@ -973,7 +1093,8 @@ export class QuestionsService {
       a: 'move away',
       b: 'get married',
       c: 'quit their job',
-      d: 'nothing'
+      d: 'nothing',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'What type of business did Charles have in Season 5?',
@@ -981,7 +1102,8 @@ export class QuestionsService {
       a: 'a law firm',
       b: 'a clothing store',
       c: 'a convenience store',
-      d: 'a food truck'
+      d: 'a food truck',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'Which occasion is always celebrated at the Precinct?',
@@ -989,7 +1111,8 @@ export class QuestionsService {
       a: 'Christmas',
       b: 'Easter',
       c: 'Halloween',
-      d: "New Year's Eve"
+      d: "New Year's Eve",
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'What rank was Amy promoted to in Season 5?',
@@ -997,7 +1120,8 @@ export class QuestionsService {
       a: 'Sergeant',
       b: 'Detective',
       c: 'Captain',
-      d: 'Lieutenant'
+      d: 'Lieutenant',
+      show: 'Brooklyn Nine-Nine'
     },
     {
       question: 'What does Michael pretend to fire Pam over in Season 1?',
@@ -1005,7 +1129,8 @@ export class QuestionsService {
       a: 'taking his umbrella',
       b: 'stealing post-it notes',
       c: 'not answering phone',
-      d: 'wearing her glasses'
+      d: 'wearing her glasses',
+      show: 'The Office'
     },
     {
       question: "What is Pam's favorite flavor of yogurt?",
@@ -1013,7 +1138,8 @@ export class QuestionsService {
       a: 'vanilla',
       b: 'strawberry',
       c: 'peach',
-      d: 'mixed berry'
+      d: 'mixed berry',
+      show: 'The Office'
     },
     {
       question: "What's Phyllis's maiden name?",
@@ -1021,7 +1147,8 @@ export class QuestionsService {
       a: 'Vance',
       b: 'Lapin',
       c: 'Lanpin',
-      d: 'Vincent'
+      d: 'Vincent',
+      show: 'The Office'
     },
     {
       question: 'What does Kevin suggest Dwight put in his gun holster?',
@@ -1029,7 +1156,8 @@ export class QuestionsService {
       a: 'a cell phone',
       b: 'a toy gun',
       c: 'a banana',
-      d: 'a pair of tongs'
+      d: 'a pair of tongs',
+      show: 'The Office'
     },
     {
       question: 'What did Michael say everyone called Phyllis back in high school?',
@@ -1037,7 +1165,8 @@ export class QuestionsService {
       a: 'Aunt Jemima',
       b: 'Phyll',
       c: 'Filly',
-      d: 'Easy Rider'
+      d: 'Easy Rider',
+      show: 'The Office'
     },
     {
       question: 'What kind of Sandwich does Michael have a dream about?',
@@ -1045,7 +1174,8 @@ export class QuestionsService {
       a: 'peanut butter & tunafish',
       b: 'tunafish & tartar sauce',
       c: 'tunafish & jelly',
-      d: 'peanut butter & tartar sauce'
+      d: 'peanut butter & tartar sauce',
+      show: 'The Office'
     },
     {
       question: 'What does Michael like to drink while watching Glee?',
@@ -1053,7 +1183,8 @@ export class QuestionsService {
       a: 'scotch and splenda',
       b: 'a beer',
       c: 'a glass of sangria',
-      d: 'chocolate milk'
+      d: 'chocolate milk',
+      show: 'The Office'
     },
     {
       question: 'What game does Michael say he plays every night before bed?',
@@ -1061,7 +1192,8 @@ export class QuestionsService {
       a: 'Counting sheep',
       b: 'Who would you do?',
       c: 'Desert Island',
-      d: 'Would you rather?'
+      d: 'Would you rather?',
+      show: 'The Office'
     },
     {
       question: 'What did Kevin buy for himself when he got himself for Secret Santa?',
@@ -1069,7 +1201,8 @@ export class QuestionsService {
       a: 'a foot massager',
       b: 'a foot bath',
       c: 'cookies',
-      d: 'an iPod'
+      d: 'an iPod',
+      show: 'The Office'
     },
     {
       question: "What's Stanley's morning 3 by 5?",
@@ -1077,7 +1210,8 @@ export class QuestionsService {
       a: 'iced coffee, 3 sugars, 5 creams',
       b: 'iced tea, 3 sugars, 5 creams',
       c: 'coffee, 3 creams, 5 sugars',
-      d: 'tea, 3 creams, 5 sugars'
+      d: 'tea, 3 creams, 5 sugars',
+      show: 'The Office'
     },
     {
       question: "What's the name of Dwight's porcupine?",
@@ -1085,7 +1219,8 @@ export class QuestionsService {
       a: 'Heather',
       b: 'Henry',
       c: 'Hillary',
-      d: 'Henrietta'
+      d: 'Henrietta',
+      show: 'The Office'
     },
     {
       question: "What is in Michael's thermos during morning deliveries for the Michael Scott Paper Compamy?",
@@ -1093,7 +1228,8 @@ export class QuestionsService {
       a: 'milk and sugar',
       b: 'cream and sugar',
       c: 'coffee and sugar',
-      d: 'red bull and cream'
+      d: 'red bull and cream',
+      show: 'The Office'
     },
     {
       question: "What brand is Michael wearing on the day he accidentally wear's a woman's suit?",
@@ -1101,7 +1237,8 @@ export class QuestionsService {
       a: 'Sassypants',
       b: 'Misstery',
       c: 'PowHERsuitz',
-      d: 'MISSsterious'
+      d: 'MISSsterious',
+      show: 'The Office'
     },
     {
       question: "Andy: I'm in this weird, flirty, nebulous thing with this ____ of mine, and it's a total mind effer",
@@ -1109,7 +1246,8 @@ export class QuestionsService {
       a: 'friend',
       b: 'step sister',
       c: 'cousin',
-      d: 'neighbor'
+      d: 'neighbor',
+      show: 'The Office'
     },
     {
       question: 'Who does Michael wear on his head during the activity on diversity day?',
@@ -1117,7 +1255,8 @@ export class QuestionsService {
       a: 'Colin Powell',
       b: 'Ghandi',
       c: 'Caesar Chavez',
-      d: 'Martin Luther King Jr.'
+      d: 'Martin Luther King Jr.',
+      show: 'The Office'
     },
     {
       question: 'What does Michael actually order at Hooters after saying: "I will have the chicken breast, hold the chicken"?',
@@ -1125,7 +1264,8 @@ export class QuestionsService {
       a: 'cheeseburger',
       b: 'gourmet hotdog',
       c: 'wings',
-      d: 'corndog'
+      d: 'corndog',
+      show: 'The Office'
     },
     {
       question: 'What does Michael make a ton of for him and Pam on the morning of the first day of the Michael Scott Paper Company?',
@@ -1133,7 +1273,8 @@ export class QuestionsService {
       a: 'waffles',
       b: 'pancakes',
       c: 'crepes',
-      d: 'french toast'
+      d: 'french toast',
+      show: 'The Office'
     },
     {
       question: 'When Phyllis suggests Michael go out with her friend, what is one of the questions he asks about her?',
@@ -1141,7 +1282,8 @@ export class QuestionsService {
       a: 'what is her shoe size?',
       b: 'is she pretty?',
       c: 'does she like to eat for fun?',
-      d: 'could we share a rowboat?'
+      d: 'could we share a rowboat?',
+      show: 'The Office'
     },
     {
       question: 'What secret signal do Dwight and Michael agree on using for a sale?',
@@ -1149,7 +1291,8 @@ export class QuestionsService {
       a: 'raising your eyebrows',
       b: 'licking your lips',
       c: 'coughing loudly',
-      d: 'winking'
+      d: 'winking',
+      show: 'The Office'
     },
     {
       question: 'Stanley says to Michael: "Nobody likes that stuff except for you", to what is he referring?',
@@ -1157,7 +1300,8 @@ export class QuestionsService {
       a: 'peppermint chocolate bark',
       b: 'milk chocolate bark',
       c: 'dark chocolate bark',
-      d: 'white chocolate bark'
+      d: 'white chocolate bark',
+      show: 'The Office'
     },
     {
       question: 'As opposed to a whistle, what does Angela use as a rape deterrent?',
@@ -1165,7 +1309,8 @@ export class QuestionsService {
       a: 'pepper spray',
       b: 'blow horn',
       c: 'a gun',
-      d: 'rape flute'
+      d: 'rape flute',
+      show: 'The Office'
     },
     {
       question: "After going to Donna's husband's baseball game with Andy, what does Michael take from the game back to the office?",
@@ -1173,7 +1318,8 @@ export class QuestionsService {
       a: 'a bag of orange slices',
       b: 'a baseball',
       c: 'a glove',
-      d: 'a bat'
+      d: 'a bat',
+      show: 'The Office'
     },
     {
       question: 'What does Michael eat instead of ice cream because they do not have any?',
@@ -1181,7 +1327,8 @@ export class QuestionsService {
       a: 'mustard and pickles',
       b: 'ketchup and chocolate chips',
       c: 'mayo and olives',
-      d: 'relish and blueberries'
+      d: 'relish and blueberries',
+      show: 'The Office'
     },
     {
       question: "On what social media site does Creed say that Michael's nephew is trashing them relentlessy?",
@@ -1189,7 +1336,8 @@ export class QuestionsService {
       a: 'Facebook',
       b: 'Reddit',
       c: 'Twitter',
-      d: 'Instagram'
+      d: 'Instagram',
+      show: 'The Office'
     },
     {
       question: "Why does Creed follow Michael's nephew on Twitter?",
@@ -1197,7 +1345,8 @@ export class QuestionsService {
       a: 'because he does not talk about Betty White',
       b: 'because he talks about Betty White',
       c: 'because Betty White follows him too',
-      d: 'because the latter follows Betty White'
+      d: 'because the latter follows Betty White',
+      show: 'The Office'
     },
     {
       question: "Dwight and Robert California's son agree what is the scariest animal?",
@@ -1205,7 +1354,8 @@ export class QuestionsService {
       a: 'black bear',
       b: 'shark',
       c: 'honey badger',
-      d: 'box jellyfish'
+      d: 'box jellyfish',
+      show: 'The Office'
     },
     {
       question: "What kind of sauce does Kevin ask for when being force fed broccoli as part of his New Year's Resolution?",
@@ -1213,7 +1363,8 @@ export class QuestionsService {
       a: 'ketchup',
       b: 'chocolate',
       c: 'cheese whiz',
-      d: 'hollandaise'
+      d: 'hollandaise',
+      show: 'The Office'
     },
     {
       question: 'What acronym does Creed come up with during his brief reign as manager?',
@@ -1221,7 +1372,8 @@ export class QuestionsService {
       a: 'noboddy',
       b: 'boboddy',
       c: 'dundder',
-      d: 'creedit'
+      d: 'creedit',
+      show: 'The Office'
     },
     {
       question: '"____, your teeth called. Your breath stinks. Boom, roasted"',
@@ -1229,7 +1381,8 @@ export class QuestionsService {
       a: 'Toby',
       b: 'Kevin',
       c: 'Creed',
-      d: 'Meredith'
+      d: 'Meredith',
+      show: 'The Office'
     },
     {
       question: "Which Toy Story character is Holly's doll that Michael throws in the trash and pours coffee on?",
@@ -1237,7 +1390,8 @@ export class QuestionsService {
       a: 'Woody',
       b: 'Buzz',
       c: 'Bo Peep',
-      d: 'Jessie'
+      d: 'Jessie',
+      show: 'The Office'
     },
     {
       question: 'Aside from Jim, who in the office has an obvious crush on Pam?',
@@ -1245,7 +1399,8 @@ export class QuestionsService {
       a: 'Ryan',
       b: 'Roy',
       c: 'Andy',
-      d: 'Toby'
+      d: 'Toby',
+      show: 'The Office'
     },
     {
       question: 'What does Dwight stop Michael from eating in the woods?',
@@ -1253,7 +1408,8 @@ export class QuestionsService {
       a: 'berries',
       b: 'mushrooms',
       c: 'bird egg',
-      d: 'squirrel'
+      d: 'squirrel',
+      show: 'The Office'
     },
     {
       question: 'What does Andy pose as during the lunch with the insurance salesman whom they suspect to be in the mob?',
@@ -1261,7 +1417,8 @@ export class QuestionsService {
       a: 'a police officer',
       b: 'a plumber',
       c: 'a yakuza',
-      d: 'a mechanic'
+      d: 'a mechanic',
+      show: 'The Office'
     },
     {
       question: 'Jim sends an urgent message back to Dwight posing as Dwight from the future, warning him that something in the office was poisoned. What was it?',
@@ -1269,7 +1426,8 @@ export class QuestionsService {
       a: 'the donuts',
       b: 'the coffee',
       c: 'the water',
-      d: 'the muffins'
+      d: 'the muffins',
+      show: 'The Office'
     },
     {
       question: "What does Michael's girlfriend, Carol, dress up as to Kelly's Diwali party?",
@@ -1277,7 +1435,8 @@ export class QuestionsService {
       a: 'a nurse',
       b: 'a realtor',
       c: 'a cheerleader',
-      d: 'a princess'
+      d: 'a princess',
+      show: 'The Office'
     },
     {
       question: "What is Michael and Jan's safe word if things go too far?",
@@ -1285,7 +1444,8 @@ export class QuestionsService {
       a: 'bonfire',
       b: 'sublime',
       c: 'candles',
-      d: 'foliage'
+      d: 'foliage',
+      show: 'The Office'
     },
     {
       question: 'What does Michael sleep on instead of the bed because Jan has "space issues"?',
@@ -1293,7 +1453,8 @@ export class QuestionsService {
       a: 'a couch',
       b: 'a bench',
       c: 'a dog bed',
-      d: 'the floor'
+      d: 'the floor',
+      show: 'The Office'
     },
     {
       question: "Jim prints out Dwight's Dunder Mifflin ID with an incorrect middle name. What is it?",
@@ -1301,7 +1462,8 @@ export class QuestionsService {
       a: 'Fart',
       b: 'Dork',
       c: 'Idiot',
-      d: 'Poop'
+      d: 'Poop',
+      show: 'The Office'
     },
     {
       question: 'For his audition for Sweeny Todd, Michael acts out an episode from what TV show?',
@@ -1309,7 +1471,8 @@ export class QuestionsService {
       a: 'Lost',
       b: 'Threat Level: Midnight',
       c: 'Glee',
-      d: 'Law & Order'
+      d: 'Law & Order',
+      show: 'The Office'
     },
     {
       question: "What is Angela's favorite Christmas song?",
@@ -1317,7 +1480,8 @@ export class QuestionsService {
       a: 'O Come Let Us Adore Him',
       b: 'Silent Night',
       c: 'Little Drummer Boy',
-      d: 'Hark! The Herald Angels Sing'
+      d: 'Hark! The Herald Angels Sing',
+      show: 'The Office'
     },
     {
       question: "How much did Michael's plasma TV cost?",
@@ -1325,7 +1489,8 @@ export class QuestionsService {
       a: '$150',
       b: '$200',
       c: '$250',
-      d: '$300'
+      d: '$300',
+      show: 'The Office'
     }
   ];
 
